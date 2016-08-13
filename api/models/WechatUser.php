@@ -54,7 +54,7 @@ class WechatUser extends ActiveRecord implements IdentityInterface
             'id' => '编号',
             'openid' => '微信openid',
             'nickname' => '昵称',
-            'sex' => '性别',
+            'gender' => '性别',
             'headimgurl' => '头像',
             'country' => '国家',
             'province' => '省份',
